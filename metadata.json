@@ -1,0 +1,6 @@
+{
+  "name": "Las Costillas de Adán",
+  "description": "Exquisitas costillas glaseadas a la barbieue, con pedido exclusivo los Jueves y entrega a domicilio los Viernes desde nuestra cocina fantasma. Organiza tu orden directo por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
