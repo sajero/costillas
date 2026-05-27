@@ -28,13 +28,13 @@ export default function ImageWithFallback({ localName, fallbackSrc, alt, ...prop
       ]
     : [
         `/assets/presentacion_brenda.png`,
-        `/assets/presentacion_brenda.jpg`,
+        `/assets/presentacion_brenda.png`,
         `/presentacion_brenda.png`,
-        `/presentacion_brenda.jpg`,
+        `/presentacion_brenda.png`,
         `/assets/input_file_0.png`,
         `/input_file_0.png`,
-        `/assets/input_file_0.jpg`,
-        `/input_file_0.jpg`,
+        `/assets/input_file_0.png`,
+        `/input_file_0.png`,
         `/assets/input_file_1.png`,
         `/input_file_1.png`,
         fallbackSrc // static high-quality fallback
