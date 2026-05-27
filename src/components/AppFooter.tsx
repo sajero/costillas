@@ -144,7 +144,7 @@ export default function AppFooter() {
               </div>
               <div className="flex items-center gap-3 text-xs md:text-sm text-gray-300">
                 <Mail size={16} className="text-brand-orange shrink-0" />
-                <span>hola2@lascostillasdeadan.com</span>
+                <span>hola@lascostillasdeadan.com</span>
               </div>
             </div>
           </div>
